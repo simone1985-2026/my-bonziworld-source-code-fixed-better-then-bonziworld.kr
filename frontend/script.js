@@ -1161,7 +1161,7 @@ var _createClass = (function () {
             ],
             [
                 { type: "text", text: "Why was six afraid of seven?" },
-                { type: "text", text: "Because seven was a sex offender" },
+                { type: "text", text: "Because seven was a sex offender." },
             ],
             [
                 { type: "text", text: "What did the digital clock say to the grandfather clock?" },
@@ -1177,7 +1177,7 @@ var _createClass = (function () {
             ],
             [
                 { type: "text", text: "Why do we call money bread?" },
-                { type: "text", text: "Because we KNEAD it. Haha please send money to my PayPal at nigerianprince99@bonzi.com" },
+                { type: "text", text: "Because we KNEAD it. Haha please send money to my PayPal at jewsthecoolest67@bonzi.lol" },
             ],
             [
                 { type: "text", text: "How many arabs does it take to knock down a lightbulb?" },
@@ -1190,6 +1190,10 @@ var _createClass = (function () {
             [
                 { type: "text", text: "Here's a joke:" },
                 { type: "text", text: "Women's rights" },
+            ],
+            [
+                { type: "text", text: "What Question: You can be answer by, Yes?" },
+                { type: "text", text: "ARE YOU ASLEEP?!" },
             ],
             [
                 { type: "text", text: "Why did Seamus' brother kill himself?" },
@@ -1208,14 +1212,34 @@ var _createClass = (function () {
                 { type: "text", text: "I don't know but jews are probably to blame." },
             ],
             [
+                { type: "text", text: "Do you know what a software Upgrade is?" },
+                { type: "text", text: "I don't know what it is but the jews tried to destroy the software." },
+            ],
+            [
                 { type: "text", text: "What is a cow that eats grass?" },
                 { type: "text", text: "ASS" },
                 { type: "text", text: "I'm a comedic genius, I know." },
             ],
             [
+                { type: "text", text: "Why does ducks like to eat?" },
+                { type: "text", text: "Graham Quackers." },
+            ],
+            [
+                { type: "text", text: "What do you call a cow that can't give milk?" },
+                { type: "text", text: "A Child Jew Porn." },
+            ],
+            [
+                { type: "text", text: "What does E-Man and E-Woman say when they save the day?" },
+                { type: "text", text: "Yahoo!" },
+            ],
+            [
                 { type: "text", text: "How do you get a girlfriend?" },
                 { type: "text", text: "You rape one" },
                 { type: "text", text: "I'm a comedic genius, I know." },
+            ],
+            [
+                { type: "text", text: "Why does PM Green like to play baseball?" },
+                { type: "text", text: "Because he was an black nigga." },
             ],
         ],
         event_list_joke_end: [
