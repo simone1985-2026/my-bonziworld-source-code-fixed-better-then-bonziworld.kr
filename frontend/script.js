@@ -1209,7 +1209,7 @@ var _createClass = (function () {
             ],
             [
                 { type: "text", text: "What tune do you sing in a car?" },
-                { type: "html", text: "<img src='./img/misc/singing.png'></img>", say: "I like to Sing the b̸l̸n̵ ̷t̸l̵ ̵t̴l̸ ̸b̶l̵n̶ ̸t̸l̴ ̵t̸l̸ ̵b̶l̸n̶" },
+                { type: "html", text: "<img src='./img/misc/singing.png'></img>", say: "I like to Sing the b̸l̸n̵ ̷t̸l̵ ̵t̴l̸ ̸b̶l̵n̶ ̸t̸l̴ ̵t̸l̸ ̵b̶l̸n̶ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA DFRNDFVCIUFDJUFDDWJFJDEIJWFUBUBUBUBUBUBUBUBHUFDUNNUFCDUIRU" },
             ],
             [
                 { type: "text", text: "Why did the chicken cross the road?" },
