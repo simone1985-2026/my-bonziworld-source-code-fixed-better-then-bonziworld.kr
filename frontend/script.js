@@ -1333,7 +1333,10 @@ var _createClass = (function () {
             ],
             [
                 { type: "text", text: "Fun Fact: The skript kiddie of this site didn't bother checking if the text that goes into the dialog box is HTML code." },
-                { type: "html", text: "<img src='./img/misc/topjej.png'></img>", say: "toppest jej" },
+                { type: "html", text: "<img src='./img/misc/topjej.png'></img>", say: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!" },
+                { type: "text", text: "What The Fuck! Stop Spamming you little Shit!" },
+                { type: "html", text: "<img src='./img/misc/topjej.png'></img>", say: "BABABABABABABABABABABABABABABAHJCDDBHUCHDEWNFVNCDHJXSSNJSINDEINCDCIJSBDEFDUBUFF" },
+                { type: "text", text: "You Know What, Screw You Guys, I'm Going To play some good Gacha Life!" },
             ],
         ],
         event_list_fact_end: [[{ type: "text", text: "o gee whilickers wasn't that sure interesting huh" }]],
